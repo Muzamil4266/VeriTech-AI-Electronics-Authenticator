@@ -3,3 +3,8 @@ This AI prompt verifies the authenticity of electronic products, from small acce
 For the best results, use this prompt with top frontier AI models such as ChatGPT 5.5, Gemini, or Claude. If one AI refuses or cannot complete the analysis, try another frontier model.
 
 Whenever you visit a shop to buy any electronic product, you can use this prompt to help verify its authenticity before making a purchase. It is a practical tool that can help reduce the risk of buying counterfeit electronics.
+
+
+
+
+
