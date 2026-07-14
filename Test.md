@@ -1,7 +1,9 @@
 TESTED ON CHATGPT 5.5 ON A MOBILE CHARGER:
 
 
-
+<img src="Charger%20(1).jpeg" width="250">
+<img src="Charger%20(2).jpeg" width="250">
+<img src="Charger%20(3).jpeg" width="250">
 
 🔍 **VeriTech Analysis**
 
